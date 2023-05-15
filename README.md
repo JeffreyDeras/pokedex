@@ -1,0 +1,2 @@
+# pokedex
+Exercicio - DIO
